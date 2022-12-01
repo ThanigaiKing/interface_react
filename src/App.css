@@ -1,0 +1,31 @@
+body{
+    margin:0px;
+    padding:0px;
+    width:100%;
+    height:100%;
+    background-color:pink;
+    color:black;
+    background-image:linear-gradient(rgba(0,0,0,.5),pink),url("https://t4.ftcdn.net/jpg/02/19/80/13/360_F_219801337_3kbasqLvgbUxAGVDH8QS35Sm4SEiPJFJ.jpg");
+    background-repeat:no-repeat;
+     background-size:cover;
+    background-position:center;  
+    text-align: center;;    
+}
+h3{
+font-size: x-large;
+    font-weight:bold; 
+    color:pink;
+}
+button{
+    width:50px;
+    height: 50px;
+    margin-left:30px;
+    margin-top:20px;
+    border:2px solid black;
+    border-radius: 50%;
+    background-color: black;
+    color:white;
+}
+button:hover{
+    box-shadow: inset 5x 10px 15px ;
+}
